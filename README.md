@@ -20,3 +20,11 @@ Windows Forms application for graph creation and Breadth-First Search (BFS) visu
 - Graph Data Structure
 
 ## Project Structure
+Graph-Algorithms-Visualizer
+│
+├── README.md
+├── GraphVisualizer.sln
+├── src
+│     └── GraphVisualizer
+├── screenshots
+└── docs
